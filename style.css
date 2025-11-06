@@ -434,6 +434,15 @@ header .navbar {
 .contact-section .contact-form .submit-button:hover {
     color: var(--primary-color);
     background: transparent;
-
 }
-footer { text-align: center !important; }
+
+footer {
+    text-align: center !important; 
+    position: relative;
+    padding-block: 4rem 2rem;
+    right: -3rem;
+    bottom: -3rem;
+    row-gap: 1rem;
+    overflow: hidden;
+}
+
