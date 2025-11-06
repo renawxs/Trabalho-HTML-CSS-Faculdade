@@ -437,12 +437,11 @@ header .navbar {
 }
 
 footer {
-    text-align: center !important; 
+    padding: 20px 0;
+    background-color: var(--dark-color);
+    color: #ffff;
+    text-align: center; 
     position: relative;
-    padding-block: 4rem 2rem;
-    right: -3rem;
-    bottom: -3rem;
-    row-gap: 1rem;
-    overflow: hidden;
 }
+
 
